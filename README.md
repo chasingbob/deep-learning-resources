@@ -1,5 +1,5 @@
 # deep-learning-resources
-Collection of resources I found useful finding my way around the world of Deep Learning.
+a Collection of resources I have found useful on my journey finding my way through the world of Deep Learning.
 
 ##Courses
 [Stanford CS231n Convolutional Neural Networkds for Visual
@@ -17,6 +17,7 @@ Networkds](https://adeshpande3.github.io/adeshpande3.github.io/A-Beginner%27s-Gu
 [Understanding LSTM Networks](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
 
 Keras is my favorite framework for Deep Learning and is underneath compatible with both Theano and Tensorflow.
+
 [The Keras Blog - Building powerful image classification models using very little
 data](https://blog.keras.io/building-powerful-image-classification-models-using-very-little-data.html)
 
@@ -25,6 +26,7 @@ data](https://blog.keras.io/building-powerful-image-classification-models-using-
 
 ##Books & e-Books
 [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/)
+[Deep Learning Book - some call this book the Deep Learning bible](https://github.com/HFTrader/DeepLearningBook)
 
 
 ##Getting Philosophical
@@ -43,8 +45,17 @@ Kaggle competitions perfect for deep learning:
 
 
 ##Tools of the Trade
-####MatplotLib
+###MatplotLib
+Deep Learning is far from being an exact science and a lot of what you do is based on getting a feel for the underlying mechanics, visualising the moving part makes it easier to understand and Matplotlib is the go-to library for visualisation
+
+[Matplotlib official](matplotlib.org)
 [Matplotlib tutorial](https://www.labri.fr/perso/nrougier/teaching/matplotlib/)
+
+###NumPy
+NumPy is a fast optimized package for scientific computing, and also the underlying library most Machine Learning frameworks are build on top of. Becoming a NumPy ninja is an important step to mastery.
+
+[NumPy official](www.numpy.org)
+[100 NumPy exercises](https://github.com/rougier/numpy-100/blob/master/100%20Numpy%20exercises.md)
 
 
 ##Datasets
