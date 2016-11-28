@@ -7,6 +7,10 @@ Recognition](https://www.quora.com/What-is-the-next-likely-breakthrough-in-Deep-
 
 [Coursera: Neural Networks for Machine Learning](https://www.coursera.org/learn/neural-networks)
 
+Even though Deep Learning is a small but important subset of Machine Learning, it is still important to get a wider knowledge and understanding of Machine Learning and no course will give you a better understanding than the excellent course by Andrew Ng.
+
+[Machine Learning](https://www.coursera.org/learn/machine-learning)
+
 
 ##Tutorials
 [A Beginner's Guide To Understanding Convolutional Neural
