@@ -49,6 +49,11 @@ Kaggle competitions perfect for deep learning:
 
 
 ##Tools of the Trade
+###Python
+[Python Official](www.python.org)
+
+[Python Programming Tutorials](https://pythonprogramming.net/)
+
 ###MatplotLib
 Deep Learning is far from being an exact science and a lot of what you do is based on getting a feel for the underlying mechanics, visualising the moving parts makes it easier to understand and Matplotlib is the go-to library for visualisation
 
