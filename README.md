@@ -26,6 +26,7 @@ data](https://blog.keras.io/building-powerful-image-classification-models-using-
 
 ##Books & e-Books
 [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/)
+
 [Deep Learning Book - some call this book the Deep Learning bible](https://github.com/HFTrader/DeepLearningBook)
 
 
