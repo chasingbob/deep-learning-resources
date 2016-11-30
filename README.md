@@ -25,6 +25,9 @@ Keras is my favorite framework for Deep Learning and is underneath compatible wi
 [The Keras Blog - Building powerful image classification models using very little
 data](https://blog.keras.io/building-powerful-image-classification-models-using-very-little-data.html)
 
+[A Few Useful Things to Know about Machine Learning, Pedro Domingos](http://homes.cs.washington.edu/~pedrod/papers/cacm12.pdf)
+
+
 ##Youtube
 [Introduction to Deep Learning with Python](https://www.youtube.com/watch?v=S75EdAcXHKk)
 
