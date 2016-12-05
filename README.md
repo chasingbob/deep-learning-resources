@@ -1,5 +1,5 @@
 # deep-learning-resources
-a Collection of resources I have found useful on my journey finding my way through the world of Deep Learning.
+A Collection of resources I have found useful on my journey finding my way through the world of Deep Learning.
 
 ##Courses
 [Stanford CS231n Convolutional Neural Networkds for Visual
@@ -80,4 +80,4 @@ NumPy is a fast optimized package for scientific computing, and is also the unde
 [20 Weird & Wonderful Datasets for Machine
 Learning](https://medium.com/@olivercameron/20-weird-wonderful-datasets-for-machine-learning-c70fc89b73d5#.j77u7v3a6)
 
-
+[Enron Email Dataset] (https://www.cs.cmu.edu/~enron/)
