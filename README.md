@@ -34,6 +34,7 @@ data](https://blog.keras.io/building-powerful-image-classification-models-using-
 
 [A Few Useful Things to Know about Machine Learning, Pedro Domingos](http://homes.cs.washington.edu/~pedrod/papers/cacm12.pdf)
 
+[How convolutional neural networks see the worldi ~Francois Chollet](https://blog.keras.io/how-convolutional-neural-networks-see-the-world.html)
 
 ##Youtube
 [Introduction to Deep Learning with Python](https://www.youtube.com/watch?v=S75EdAcXHKk)
