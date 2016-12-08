@@ -74,14 +74,14 @@ Kaggle competitions perfect for deep learning:
 ###MatplotLib
 Deep Learning is far from being an exact science and a lot of what you do is based on getting a feel for the underlying mechanics, visualising the moving parts makes it easier to understand and Matplotlib is the go-to library for visualisation
 
-[Matplotlib official](matplotlib.org)
+[Matplotlib official](http://matplotlib.org)
 
 [Matplotlib tutorial](https://www.labri.fr/perso/nrougier/teaching/matplotlib/)
 
 ###NumPy
 NumPy is a fast optimized package for scientific computing, and is also the underlying library a lot of Machine Learning frameworks are build on top of. Becoming a NumPy ninja is an important step to mastery.
 
-[NumPy official](www.numpy.org)
+[NumPy official](http://www.numpy.org)
 
 [100 NumPy exercises](https://github.com/rougier/numpy-100/blob/master/100%20Numpy%20exercises.md)
 
