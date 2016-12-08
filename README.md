@@ -43,6 +43,8 @@ data](https://blog.keras.io/building-powerful-image-classification-models-using-
 
 [Deep Learning Book - some call this book the Deep Learning bible](https://github.com/HFTrader/DeepLearningBook)
 
+[Machine Learning Yearning - Technical Strategy for AI Engineers, in the Era of Deep Learning ~Andrew Ng](https://gallery.mailchimp.com/dc3a7ef4d750c0abfc19202a3/files/Machine_Learning_Yearning_V0.5_01.pdf)
+
 
 ##Getting Philosophical
 [What is the next likely breakthrough in Deep
