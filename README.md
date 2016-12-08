@@ -57,11 +57,11 @@ expert to feel the adrenalin of a $120000 competition
 
 Kaggle competitions perfect for deep learning:
 
-[Digit Recognizer](https://www.kaggle.com/c/digit-recognizer)
+* [Digit Recognizer](https://www.kaggle.com/c/digit-recognizer)
 
-[Dogs vs Cats](https://www.kaggle.com/c/dogs-vs-cats-redux-kernels-edition)
+* [Dogs vs Cats](https://www.kaggle.com/c/dogs-vs-cats-redux-kernels-edition)
 
-[The Nature Conservancy Fisheries Monitoring](https://www.kaggle.com/c/the-nature-conservancy-fisheries-monitoring)
+* [The Nature Conservancy Fisheries Monitoring](https://www.kaggle.com/c/the-nature-conservancy-fisheries-monitoring)
 
 
 ##Tools of the Trade
