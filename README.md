@@ -67,7 +67,7 @@ Kaggle competitions perfect for deep learning:
 
 ##Tools of the Trade
 ###Python
-[Python Official](www.python.org)
+[Python Official](https://www.python.org/)
 
 [Python Programming Tutorials](https://pythonprogramming.net/)
 
