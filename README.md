@@ -14,7 +14,7 @@ Even though Deep Learning is a small but important subset of Machine Learning, i
 
 ##Tutorials
 [A Beginner's Guide To Understanding Convolutional Neural
-Networkds](https://adeshpande3.github.io/adeshpande3.github.io/A-Beginner%27s-Guide-To-Understanding-Convolutional-Neural-Networks/)
+Networks](https://adeshpande3.github.io/adeshpande3.github.io/A-Beginner%27s-Guide-To-Understanding-Convolutional-Neural-Networks/)
 
 [An Intuitive Explanation of Convolutional Neural Networks](https://ujjwalkarn.me/2016/08/11/intuitive-explanation-convnets/)
 
