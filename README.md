@@ -2,7 +2,7 @@
 A Collection of resources I have found useful on my journey finding my way through the world of Deep Learning.
 
 ##Courses
-[Stanford CS231n Convolutional Neural Networkds for Visual
+[Stanford CS231n Convolutional Neural Networks for Visual
 Recognition](http://cs231n.github.io/)
 
 [Coursera: Neural Networks for Machine Learning](https://www.coursera.org/learn/neural-networks)
