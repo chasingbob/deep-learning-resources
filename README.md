@@ -51,6 +51,11 @@ data](https://blog.keras.io/building-powerful-image-classification-models-using-
 [What is the next likely breakthrough in Deep
 Learning](https://www.quora.com/What-is-the-next-likely-breakthrough-in-Deep-Learning-1)
 
+Looking at [The major advancements in Deep Learning in
+2016](https://tryolabs.com/blog/2016/12/06/major-advancements-deep-learning-2016/) gives us a peek into the future of
+deep learing. A big portion of the effort went into Generative Models, let us see if that is the case in 2017.
+
+
 
 ##Competitions
 Kaggle is the place to be for Data Scientists and Deep Learning experts at the moment - but you don't have to be an
@@ -64,6 +69,7 @@ Kaggle competitions perfect for deep learning:
 
 * [The Nature Conservancy Fisheries Monitoring](https://www.kaggle.com/c/the-nature-conservancy-fisheries-monitoring)
 
+* [State Farm Distracted Driver Detection](https://www.kaggle.com/c/state-farm-distracted-driver-detection)
 
 ##Tools of the Trade
 ###Python
