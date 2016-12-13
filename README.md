@@ -55,6 +55,8 @@ Looking at [The major advancements in Deep Learning in
 2016](https://tryolabs.com/blog/2016/12/06/major-advancements-deep-learning-2016/) gives us a peek into the future of
 deep learing. A big portion of the effort went into Generative Models, let us see if that is the case in 2017.
 
+[Do machines actually beat doctors?](https://lukeoakdenrayner.wordpress.com/2016/11/27/do-computers-already-outperform-doctors/)
+
 
 
 ##Competitions
