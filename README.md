@@ -39,6 +39,8 @@ data](https://blog.keras.io/building-powerful-image-classification-models-using-
 ##Youtube
 [Introduction to Deep Learning with Python](https://www.youtube.com/watch?v=S75EdAcXHKk)
 
+[Machine Learning with Python](https://www.youtube.com/playlist?list=PLQVvvaa0QuDfKTOs3Keq_kaG2P55YRn5v)
+
 ##Books & e-Books
 [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/)
 
@@ -99,3 +101,7 @@ NumPy is a fast optimized package for scientific computing, and is also the unde
 Learning](https://medium.com/@olivercameron/20-weird-wonderful-datasets-for-machine-learning-c70fc89b73d5#.j77u7v3a6)
 
 [Enron Email Dataset] (https://www.cs.cmu.edu/~enron/)
+
+
+##Who I follow
+
