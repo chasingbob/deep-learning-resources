@@ -116,3 +116,4 @@ Tshilidzi Mudau | [Twitter](https://twitter.com/thetshilidzi)
 Yann LeCun |  [Yann LeCun](http://yann.lecun.com/) |  [Twitter](https://twitter.com/ylecun) | 
 [Quora](https://www.quora.com/profile/Yann-LeCun) 
 
+Mike Tyka | [Homepage](http://www.miketyka.com/) | [Twitter](https://twitter.com/mtyka)
