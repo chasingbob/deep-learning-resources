@@ -104,4 +104,15 @@ Learning](https://medium.com/@olivercameron/20-weird-wonderful-datasets-for-mach
 
 
 ##Who I follow
+[Andrew Ng](http://www.andrewng.org/)   [Twitter](https://twitter.com/AndrewYNg)
+
+[François Chollet](https://keras.io/) [Github](https://github.com/fchollet)     [Twitter](https://twitter.com/fchollet) 
+
+[Ian Goodfellow](http://www.iangoodfellow.com) [Github](https://github.com/goodfeli)
+[Twitter](https://twitter.com/goodfellow_ian)
+
+[Tshilidzi Mudau](https://twitter.com/thetshilidzi)
+
+[Yann LeCun](http://yann.lecun.com/)    [Twitter](https://twitter.com/ylecun)
+[Quora](https://www.quora.com/profile/Yann-LeCun) 
 
