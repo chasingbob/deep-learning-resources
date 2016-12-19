@@ -105,7 +105,7 @@ Learning](https://medium.com/@olivercameron/20-weird-wonderful-datasets-for-mach
 [Enron Email Dataset] (https://www.cs.cmu.edu/~enron/)
 
 
-##Who I follow
+##Whom I follow
 Andrew Ng | [Homepage](http://www.andrewng.org/) |  [Twitter](https://twitter.com/AndrewYNg)
 
 François Chollet | [Homepage](https://keras.io/) |  [Github](https://github.com/fchollet)     [Twitter](https://twitter.com/fchollet) 
