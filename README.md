@@ -41,6 +41,8 @@ data](https://blog.keras.io/building-powerful-image-classification-models-using-
 
 [Machine Learning with Python](https://www.youtube.com/playlist?list=PLQVvvaa0QuDfKTOs3Keq_kaG2P55YRn5v)
 
+[Deep Visualization Toolbox](https://www.youtube.com/watch?v=AgkfIQ4IGaM)
+
 ##Books & e-Books
 [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/)
 
@@ -63,7 +65,7 @@ deep learing. A big portion of the effort went into Generative Models, let us se
 
 ##Competitions
 Kaggle is the place to be for Data Scientists and Deep Learning experts at the moment - but you don't have to be an
-expert to feel the adrenalin of a $120000 competition
+expert to feel the adrenalin of a $150000 competition
 
 Kaggle competitions perfect for deep learning:
 
@@ -117,3 +119,5 @@ Yann LeCun |  [Yann LeCun](http://yann.lecun.com/) |  [Twitter](https://twitter.
 [Quora](https://www.quora.com/profile/Yann-LeCun) 
 
 Mike Tyka | [Homepage](http://www.miketyka.com/) | [Twitter](https://twitter.com/mtyka)
+
+Jason Yosinski | [Homepage](http://yosinski.com/) | [Twitter](https://twitter.com/jasonyo) | [Youtube](https://www.youtube.com/channel/UCr5GeO1mNHuBiqg0CgPAHdQ)
