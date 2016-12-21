@@ -42,7 +42,7 @@ data](https://blog.keras.io/building-powerful-image-classification-models-using-
 
 [YouTube: Deep Visualization Toolbox](https://www.youtube.com/watch?v=AgkfIQ4IGaM)
 
-[Yes you should understand backprop](https://medium.com/@karpathy/yes-you-should-understand-backprop-e2f06eab496b#.u4h4xc348)
+[Yes you should understand backprop ~Andrej Karpathy](https://medium.com/@karpathy/yes-you-should-understand-backprop-e2f06eab496b#.u4h4xc348)
 
 ##Books & e-Books
 [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/)
