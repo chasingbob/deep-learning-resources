@@ -36,12 +36,11 @@ data](https://blog.keras.io/building-powerful-image-classification-models-using-
 
 [How convolutional neural networks see the world ~Francois Chollet](https://blog.keras.io/how-convolutional-neural-networks-see-the-world.html)
 
-##Youtube
-[Introduction to Deep Learning with Python](https://www.youtube.com/watch?v=S75EdAcXHKk)
+[YouTube: Introduction to Deep Learning with Python](https://www.youtube.com/watch?v=S75EdAcXHKk)
 
-[Machine Learning with Python](https://www.youtube.com/playlist?list=PLQVvvaa0QuDfKTOs3Keq_kaG2P55YRn5v)
+[YouTube: Machine Learning with Python](https://www.youtube.com/playlist?list=PLQVvvaa0QuDfKTOs3Keq_kaG2P55YRn5v)
 
-[Deep Visualization Toolbox](https://www.youtube.com/watch?v=AgkfIQ4IGaM)
+[YouTube: Deep Visualization Toolbox](https://www.youtube.com/watch?v=AgkfIQ4IGaM)
 
 ##Books & e-Books
 [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/)
@@ -89,6 +88,8 @@ Deep Learning is far from being an exact science and a lot of what you do is bas
 [Matplotlib official](http://matplotlib.org)
 
 [Matplotlib tutorial](https://www.labri.fr/perso/nrougier/teaching/matplotlib/)
+
+[YouTube: Bare Minimum: Matplotlib for data visualization](https://www.youtube.com/watch?v=ZthnIfAbKAU)
 
 ###NumPy
 NumPy is a fast optimized package for scientific computing, and is also the underlying library a lot of Machine Learning frameworks are build on top of. Becoming a NumPy ninja is an important step to mastery.
