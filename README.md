@@ -42,6 +42,8 @@ data](https://blog.keras.io/building-powerful-image-classification-models-using-
 
 [YouTube: Deep Visualization Toolbox](https://www.youtube.com/watch?v=AgkfIQ4IGaM)
 
+[Yes you should understand backprop](https://medium.com/@karpathy/yes-you-should-understand-backprop-e2f06eab496b#.u4h4xc348)
+
 ##Books & e-Books
 [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/)
 
@@ -122,3 +124,5 @@ Yann LeCun |  [Yann LeCun](http://yann.lecun.com/) |  [Twitter](https://twitter.
 Mike Tyka | [Homepage](http://www.miketyka.com/) | [Twitter](https://twitter.com/mtyka)
 
 Jason Yosinski | [Homepage](http://yosinski.com/) | [Twitter](https://twitter.com/jasonyo) | [Youtube](https://www.youtube.com/channel/UCr5GeO1mNHuBiqg0CgPAHdQ)
+
+Andrej Karpath | [Homepage](https://karpathy.github.io/) | [Twitter](https://twitter.com/karpathy) 
