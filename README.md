@@ -125,4 +125,4 @@ Mike Tyka | [Homepage](http://www.miketyka.com/) | [Twitter](https://twitter.com
 
 Jason Yosinski | [Homepage](http://yosinski.com/) | [Twitter](https://twitter.com/jasonyo) | [Youtube](https://www.youtube.com/channel/UCr5GeO1mNHuBiqg0CgPAHdQ)
 
-Andrej Karpath | [Homepage](https://karpathy.github.io/) | [Twitter](https://twitter.com/karpathy) 
+Andrej Karpathy | [Homepage](https://karpathy.github.io/) | [Twitter](https://twitter.com/karpathy) 
