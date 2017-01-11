@@ -100,6 +100,10 @@ NumPy is a fast optimized package for scientific computing, and is also the unde
 
 [100 NumPy exercises](https://github.com/rougier/numpy-100/blob/master/100%20Numpy%20exercises.md)
 
+###keras-visuals
+Visualise the training of your Keras model with an easy to use Matplotlib graph and one line of code.
+[keras-visuals](https://github.com/chasingbob/keras-visuals)
+
 
 ##Datasets
 [20 Weird & Wonderful Datasets for Machine
