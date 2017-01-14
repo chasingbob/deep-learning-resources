@@ -44,6 +44,8 @@ data](https://blog.keras.io/building-powerful-image-classification-models-using-
 
 [Yes you should understand backprop ~Andrej Karpathy](https://medium.com/@karpathy/yes-you-should-understand-backprop-e2f06eab496b#.u4h4xc348)
 
+[PDF: Dropout: A Simple Way to Prevent Neural Networks from Overfitting](http://www.cs.toronto.edu/~rsalakhu/papers/srivastava14a.pdf)
+
 ##Books & e-Books
 [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/)
 
