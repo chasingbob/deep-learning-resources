@@ -32,9 +32,9 @@ Keras is my favorite framework for Deep Learning and is underneath compatible wi
 * [The Keras Blog - Building powerful image classification models using very little
 data](https://blog.keras.io/building-powerful-image-classification-models-using-very-little-data.html)
 
-[A Few Useful Things to Know about Machine Learning ~Pedro Domingos](http://homes.cs.washington.edu/~pedrod/papers/cacm12.pdf)
+* [How convolutional neural networks see the world ~Francois Chollet](https://blog.keras.io/how-convolutional-neural-networks-see-the-world.html)
 
-[How convolutional neural networks see the world ~Francois Chollet](https://blog.keras.io/how-convolutional-neural-networks-see-the-world.html)
+[A Few Useful Things to Know about Machine Learning ~Pedro Domingos](http://homes.cs.washington.edu/~pedrod/papers/cacm12.pdf)
 
 [YouTube: Introduction to Deep Learning with Python](https://www.youtube.com/watch?v=S75EdAcXHKk)
 
@@ -43,6 +43,8 @@ data](https://blog.keras.io/building-powerful-image-classification-models-using-
 [YouTube: Deep Visualization Toolbox](https://www.youtube.com/watch?v=AgkfIQ4IGaM)
 
 [Yes you should understand backprop ~Andrej Karpathy](https://medium.com/@karpathy/yes-you-should-understand-backprop-e2f06eab496b#.u4h4xc348)
+
+[PDF: Dropout: A Simple Way to Prevent Neural Networks from Overfitting](http://www.cs.toronto.edu/~rsalakhu/papers/srivastava14a.pdf)
 
 ##Books & e-Books
 [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/)
