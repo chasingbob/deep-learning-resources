@@ -98,6 +98,8 @@ NumPy is a fast optimized package for scientific computing, and is also the unde
 
 [NumPy official](http://www.numpy.org)
 
+[CS231n Python Numpy Tutorial](http://cs231n.github.io/python-numpy-tutorial/)
+
 [100 NumPy exercises](https://github.com/rougier/numpy-100/blob/master/100%20Numpy%20exercises.md)
 
 ###keras-visuals
