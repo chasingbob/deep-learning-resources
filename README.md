@@ -46,6 +46,9 @@ data](https://blog.keras.io/building-powerful-image-classification-models-using-
 
 [PDF: Dropout: A Simple Way to Prevent Neural Networks from Overfitting](http://www.cs.toronto.edu/~rsalakhu/papers/srivastava14a.pdf)
 
+[Quora: How does a confusion matrix work](https://www.quora.com/How-does-a-confusion-matrix-work/answer/Dries-Cronje?srid=yKmt)
+
+
 ##Books & e-Books
 [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/)
 
