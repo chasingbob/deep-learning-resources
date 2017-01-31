@@ -46,6 +46,8 @@ data](https://blog.keras.io/building-powerful-image-classification-models-using-
 
 [PDF: Dropout: A Simple Way to Prevent Neural Networks from Overfitting](http://www.cs.toronto.edu/~rsalakhu/papers/srivastava14a.pdf)
 
+[PDF: SqueezeNet: AlexNet-level accuracy with 50x fewer parameters and 0.5MB model size](https://arxiv.org/abs/1602.07360)
+
 [Quora: How does a confusion matrix work](https://www.quora.com/How-does-a-confusion-matrix-work/answer/Dries-Cronje?srid=yKmt)
 
 
