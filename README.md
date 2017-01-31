@@ -24,8 +24,11 @@ Gradient Descent Optimisation Algorithms
 
 * [An Overview](http://sebastianruder.com/optimizing-gradient-descent/)
 
+Recurrent Neural Networks
 
-[Understanding LSTM Networks](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
+* [Understanding LSTM Networks](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
+
+* [The Unreasonable Effectiveness of Recurrent Neural Networks ~Andrej Karpathy](http://karpathy.github.io/2015/05/21/rnn-effectiveness/)
 
 Keras is my favorite framework for Deep Learning and is underneath compatible with both Theano and Tensorflow.
 
@@ -140,3 +143,5 @@ Mike Tyka | [Homepage](http://www.miketyka.com/) | [Twitter](https://twitter.com
 Jason Yosinski | [Homepage](http://yosinski.com/) | [Twitter](https://twitter.com/jasonyo) | [Youtube](https://www.youtube.com/channel/UCr5GeO1mNHuBiqg0CgPAHdQ)
 
 Andrej Karpathy | [Homepage](https://karpathy.github.io/) | [Twitter](https://twitter.com/karpathy) 
+
+Chris Olah | [Homepage](http://colah.github.io/) | [Github](https://github.com/colah/) | [Twitter](https://twitter.com/ch402)
