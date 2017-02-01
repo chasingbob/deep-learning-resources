@@ -142,6 +142,6 @@ Mike Tyka | [Homepage](http://www.miketyka.com/) | [Twitter](https://twitter.com
 
 Jason Yosinski | [Homepage](http://yosinski.com/) | [Twitter](https://twitter.com/jasonyo) | [Youtube](https://www.youtube.com/channel/UCr5GeO1mNHuBiqg0CgPAHdQ)
 
-Andrej Karpathy | [Homepage](https://karpathy.github.io/) | [Twitter](https://twitter.com/karpathy) 
+Andrej Karpathy | [Homepage](https://karpathy.github.io/) | [Twitter](https://twitter.com/karpathy) | [G+](https://plus.google.com/+AndrejKarpathy) 
 
 Chris Olah | [Homepage](http://colah.github.io/) | [Github](https://github.com/colah/) | [Twitter](https://twitter.com/ch402)
