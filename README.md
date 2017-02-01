@@ -18,6 +18,8 @@ Networks](https://adeshpande3.github.io/adeshpande3.github.io/A-Beginner%27s-Gui
 
 [An Intuitive Explanation of Convolutional Neural Networks](https://ujjwalkarn.me/2016/08/11/intuitive-explanation-convnets/)
 
+[Hacker's guide to Neural Networks ~Andrej Karpathy](http://karpathy.github.io/neuralnets/)
+
 Gradient Descent Optimisation Algorithms
 
 * [Animations done by AlecRadford](http://2.bp.blogspot.com/-q6l20Vs4P_w/VPmIC7sEhnI/AAAAAAAACC4/g3UOUX2r_yA/s1600/s25RsOr%2B-%2BImgur.gif)
