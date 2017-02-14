@@ -18,6 +18,8 @@ Networks](https://adeshpande3.github.io/adeshpande3.github.io/A-Beginner%27s-Gui
 
 [An Intuitive Explanation of Convolutional Neural Networks](https://ujjwalkarn.me/2016/08/11/intuitive-explanation-convnets/)
 
+[Hacker's guide to Neural Networks ~Andrej Karpathy](http://karpathy.github.io/neuralnets/)
+
 Gradient Descent Optimisation Algorithms
 
 * [Animations done by AlecRadford](http://2.bp.blogspot.com/-q6l20Vs4P_w/VPmIC7sEhnI/AAAAAAAACC4/g3UOUX2r_yA/s1600/s25RsOr%2B-%2BImgur.gif)
@@ -48,6 +50,8 @@ data](https://blog.keras.io/building-powerful-image-classification-models-using-
 [Yes you should understand backprop ~Andrej Karpathy](https://medium.com/@karpathy/yes-you-should-understand-backprop-e2f06eab496b#.u4h4xc348)
 
 [PDF: Dropout: A Simple Way to Prevent Neural Networks from Overfitting](http://www.cs.toronto.edu/~rsalakhu/papers/srivastava14a.pdf)
+
+[PDF: SqueezeNet: AlexNet-level accuracy with 50x fewer parameters and 0.5MB model size](https://arxiv.org/abs/1602.07360)
 
 [Quora: How does a confusion matrix work](https://www.quora.com/How-does-a-confusion-matrix-work/answer/Dries-Cronje?srid=yKmt)
 
@@ -142,7 +146,7 @@ Mike Tyka | [Homepage](http://www.miketyka.com/) | [Twitter](https://twitter.com
 
 Jason Yosinski | [Homepage](http://yosinski.com/) | [Twitter](https://twitter.com/jasonyo) | [Youtube](https://www.youtube.com/channel/UCr5GeO1mNHuBiqg0CgPAHdQ)
 
-Andrej Karpathy | [Homepage](https://karpathy.github.io/) | [Twitter](https://twitter.com/karpathy) 
+Andrej Karpathy | [Homepage](https://karpathy.github.io/) | [Twitter](https://twitter.com/karpathy) | [G+](https://plus.google.com/+AndrejKarpathy) 
 
 Chris Olah | [Homepage](http://colah.github.io/) | [Github](https://github.com/colah/) | [Twitter](https://twitter.com/ch402)
 
