@@ -51,6 +51,8 @@ data](https://blog.keras.io/building-powerful-image-classification-models-using-
 
 [Quora: How does a confusion matrix work](https://www.quora.com/How-does-a-confusion-matrix-work/answer/Dries-Cronje?srid=yKmt)
 
+[PDF: Understanding the difficulty of training deep feedforward neural networks](http://jmlr.org/proceedings/papers/v9/glorot10a/glorot10a.pdf)
+
 
 ##Books & e-Books
 [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/)
@@ -143,3 +145,7 @@ Jason Yosinski | [Homepage](http://yosinski.com/) | [Twitter](https://twitter.co
 Andrej Karpathy | [Homepage](https://karpathy.github.io/) | [Twitter](https://twitter.com/karpathy) 
 
 Chris Olah | [Homepage](http://colah.github.io/) | [Github](https://github.com/colah/) | [Twitter](https://twitter.com/ch402)
+
+Yoshua Bengio | [Homepage](http://www.iro.umontreal.ca/~bengioy/yoshua_en/)
+
+Hugo Larochelle | [Twitter](https://twitter.com/hugo_larochelle)
