@@ -152,4 +152,4 @@ Chris Olah | [Homepage](http://colah.github.io/) | [Github](https://github.com/c
 
 Yoshua Bengio | [Homepage](http://www.iro.umontreal.ca/~bengioy/yoshua_en/)
 
-Hugo Larochelle | [Twitter](https://twitter.com/hugo_larochelle)
+Hugo Larochelle | [Homepage](http://info.usherbrooke.ca/hlarochelle/index_en.html) | [Twitter](https://twitter.com/hugo_larochelle)
