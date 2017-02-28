@@ -39,6 +39,13 @@ data](https://blog.keras.io/building-powerful-image-classification-models-using-
 
 * [How convolutional neural networks see the world ~Francois Chollet](https://blog.keras.io/how-convolutional-neural-networks-see-the-world.html)
 
+* [A complete guide to using Keras as part of a TensorFlow workflow](https://blog.keras.io/keras-as-a-simplified-interface-to-tensorflow-tutorial.html)
+
+TensorFlow
+
+[Learn TensorFlow and deep learning, without a
+Ph.D.](https://cloud.google.com/blog/big-data/2017/01/learn-tensorflow-and-deep-learning-without-a-phd)
+
 [A Few Useful Things to Know about Machine Learning ~Pedro Domingos](http://homes.cs.washington.edu/~pedrod/papers/cacm12.pdf)
 
 [YouTube: Introduction to Deep Learning with Python](https://www.youtube.com/watch?v=S75EdAcXHKk)
