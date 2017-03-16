@@ -132,8 +132,7 @@ Visualise the training of your Keras model with an easy to use Matplotlib graph 
 
 
 ## Datasets
-[20 Weird & Wonderful Datasets for Machine
-Learning](https://medium.com/@olivercameron/20-weird-wonderful-datasets-for-machine-learning-c70fc89b73d5#.j77u7v3a6)
+[20 Weird & Wonderful Datasets for Machine Learning](https://medium.com/@olivercameron/20-weird-wonderful-datasets-for-machine-learning-c70fc89b73d5#.j77u7v3a6)
 
 [Enron Email Dataset] (https://www.cs.cmu.edu/~enron/)
 
