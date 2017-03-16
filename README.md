@@ -64,6 +64,8 @@ Ph.D.](https://cloud.google.com/blog/big-data/2017/01/learn-tensorflow-and-deep-
 
 [PDF: Understanding the difficulty of training deep feedforward neural networks](http://jmlr.org/proceedings/papers/v9/glorot10a/glorot10a.pdf)
 
+[PDF: Lip reading using CNN and LSTM](http://cs231n.stanford.edu/reports2016/217_Report.pdf)
+
 
 ##Books & e-Books
 [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/)
