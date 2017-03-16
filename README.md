@@ -1,7 +1,7 @@
 # deep-learning-resources
 A Collection of resources I have found useful on my journey finding my way through the world of Deep Learning.
 
-##Courses
+## Courses
 [Stanford CS231n Convolutional Neural Networks for Visual
 Recognition](http://cs231n.github.io/)
 
@@ -12,7 +12,7 @@ Even though Deep Learning is a small but important subset of Machine Learning, i
 [Coursera: Machine Learning](https://www.coursera.org/learn/machine-learning)
 
 
-##Tutorials
+## Tutorials
 [A Beginner's Guide To Understanding Convolutional Neural
 Networks](https://adeshpande3.github.io/adeshpande3.github.io/A-Beginner%27s-Guide-To-Understanding-Convolutional-Neural-Networks/)
 
@@ -67,7 +67,7 @@ Ph.D.](https://cloud.google.com/blog/big-data/2017/01/learn-tensorflow-and-deep-
 [PDF: Lip reading using CNN and LSTM](http://cs231n.stanford.edu/reports2016/217_Report.pdf)
 
 
-##Books & e-Books
+## Books & e-Books
 [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/)
 
 [Deep Learning Book - some call this book the Deep Learning bible](https://github.com/HFTrader/DeepLearningBook)
@@ -75,7 +75,7 @@ Ph.D.](https://cloud.google.com/blog/big-data/2017/01/learn-tensorflow-and-deep-
 [Machine Learning Yearning - Technical Strategy for AI Engineers, in the Era of Deep Learning ~Andrew Ng](https://gallery.mailchimp.com/dc3a7ef4d750c0abfc19202a3/files/Machine_Learning_Yearning_V0.5_01.pdf)
 
 
-##Getting Philosophical
+## Getting Philosophical
 [What is the next likely breakthrough in Deep
 Learning](https://www.quora.com/What-is-the-next-likely-breakthrough-in-Deep-Learning-1)
 
@@ -87,7 +87,7 @@ deep learing. A big portion of the effort went into Generative Models, let us se
 
 
 
-##Competitions
+## Competitions
 Kaggle is the place to be for Data Scientists and Deep Learning experts at the moment - but you don't have to be an
 expert to feel the adrenalin of a $150000 competition
 
@@ -101,13 +101,13 @@ Kaggle competitions perfect for deep learning:
 
 * [State Farm Distracted Driver Detection](https://www.kaggle.com/c/state-farm-distracted-driver-detection)
 
-##Tools of the Trade
-###Python
+## Tools of the Trade
+### Python
 [Python Official](https://www.python.org/)
 
 [Python Programming Tutorials](https://pythonprogramming.net/)
 
-###MatplotLib
+### MatplotLib
 Deep Learning is far from being an exact science and a lot of what you do is based on getting a feel for the underlying mechanics, visualising the moving parts makes it easier to understand and Matplotlib is the go-to library for visualisation
 
 [Matplotlib official](http://matplotlib.org)
@@ -116,7 +116,7 @@ Deep Learning is far from being an exact science and a lot of what you do is bas
 
 [YouTube: Bare Minimum: Matplotlib for data visualization](https://www.youtube.com/watch?v=ZthnIfAbKAU)
 
-###NumPy
+### NumPy
 NumPy is a fast optimized package for scientific computing, and is also the underlying library a lot of Machine Learning frameworks are build on top of. Becoming a NumPy ninja is an important step to mastery.
 
 [NumPy official](http://www.numpy.org)
@@ -125,20 +125,20 @@ NumPy is a fast optimized package for scientific computing, and is also the unde
 
 [100 NumPy exercises](https://github.com/rougier/numpy-100/blob/master/100%20Numpy%20exercises.md)
 
-###keras-visuals
+### keras-visuals
 Visualise the training of your Keras model with an easy to use Matplotlib graph using one line of code.
 
 [keras-visuals](https://github.com/chasingbob/keras-visuals)
 
 
-##Datasets
+## Datasets
 [20 Weird & Wonderful Datasets for Machine
 Learning](https://medium.com/@olivercameron/20-weird-wonderful-datasets-for-machine-learning-c70fc89b73d5#.j77u7v3a6)
 
 [Enron Email Dataset] (https://www.cs.cmu.edu/~enron/)
 
 
-##Whom I follow
+## Whom I follow
 Andrew Ng | [Homepage](http://www.andrewng.org/) |  [Twitter](https://twitter.com/AndrewYNg)
 
 François Chollet | [Homepage](https://keras.io/) |  [Github](https://github.com/fchollet)     [Twitter](https://twitter.com/fchollet) 
