@@ -66,6 +66,8 @@ Ph.D.](https://cloud.google.com/blog/big-data/2017/01/learn-tensorflow-and-deep-
 
 [PDF: Lip reading using CNN and LSTM](http://cs231n.stanford.edu/reports2016/217_Report.pdf)
 
+[Running Jupyter notebooks on GPU on AWS: a starter guide](https://blog.keras.io/running-jupyter-notebooks-on-gpu-on-aws-a-starter-guide.html)
+
 
 ## Books & e-Books
 [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/)
@@ -161,3 +163,9 @@ Chris Olah | [Homepage](http://colah.github.io/) | [Github](https://github.com/c
 Yoshua Bengio | [Homepage](http://www.iro.umontreal.ca/~bengioy/yoshua_en/)
 
 Hugo Larochelle | [Homepage](http://info.usherbrooke.ca/hlarochelle/index_en.html) | [Twitter](https://twitter.com/hugo_larochelle)
+
+Denny Britz | [Blog](http://blog.dennybritz.com/) | [Twitter](https://twitter.com/dennybritz)
+
+Adit Deshpande | [Blog](https://adeshpande3.github.io/) | [Twitter](https://twitter.com/aditdeshpande3)
+
+Fei-Fei Li | [Blog](http://vision.stanford.edu/) | [Twitter](https://twitter.com/drfeifei)
