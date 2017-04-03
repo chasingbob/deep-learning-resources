@@ -13,6 +13,8 @@ Even though Deep Learning is a small but important subset of Machine Learning, i
 
 
 ## Tutorials
+[Tinker with a Neural Network Right Here in Your Browser](http://playground.tensorflow.org)
+
 [A Beginner's Guide To Understanding Convolutional Neural
 Networks](https://adeshpande3.github.io/adeshpande3.github.io/A-Beginner%27s-Guide-To-Understanding-Convolutional-Neural-Networks/)
 
@@ -32,7 +34,7 @@ Recurrent Neural Networks
 
 * [The Unreasonable Effectiveness of Recurrent Neural Networks ~Andrej Karpathy](http://karpathy.github.io/2015/05/21/rnn-effectiveness/)
 
-Keras is my favorite framework for Deep Learning and is underneath compatible with both Theano and Tensorflow.
+Keras framework for Deep Learning that compatible with both Theano and Tensorflow.
 
 * [The Keras Blog - Building powerful image classification models using very little
 data](https://blog.keras.io/building-powerful-image-classification-models-using-very-little-data.html)
@@ -42,6 +44,8 @@ data](https://blog.keras.io/building-powerful-image-classification-models-using-
 * [A complete guide to using Keras as part of a TensorFlow workflow](https://blog.keras.io/keras-as-a-simplified-interface-to-tensorflow-tutorial.html)
 
 TensorFlow
+
+* [Getting Started With TensorFlow](https://www.tensorflow.org/get_started/get_started)
 
 * [Learn TensorFlow and deep learning, without a
 Ph.D.](https://cloud.google.com/blog/big-data/2017/01/learn-tensorflow-and-deep-learning-without-a-phd)
@@ -136,7 +140,7 @@ Visualise the training of your Keras model with an easy to use Matplotlib graph 
 ## Datasets
 [20 Weird & Wonderful Datasets for Machine Learning](https://medium.com/@olivercameron/20-weird-wonderful-datasets-for-machine-learning-c70fc89b73d5#.j77u7v3a6)
 
-[Enron Email Dataset] (https://www.cs.cmu.edu/~enron/)
+[Enron Email Dataset](https://www.cs.cmu.edu/~enron/)
 
 
 ## Whom I follow
