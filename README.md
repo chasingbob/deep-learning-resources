@@ -13,6 +13,8 @@ Even though Deep Learning is a small but important subset of Machine Learning, i
 
 
 ## Tutorials
+[YouTube: Excellent visualization of How Neural Networks Work](https://www.youtube.com/watch?v=ILsA4nyG7I0)
+
 [Tinker with a Neural Network Right Here in Your Browser](http://playground.tensorflow.org)
 
 [A Beginner's Guide To Understanding Convolutional Neural
@@ -98,6 +100,8 @@ Kaggle is the place to be for Data Scientists and Deep Learning experts at the m
 expert to feel the adrenalin of a $150000 competition
 
 Kaggle competitions perfect for deep learning:
+
+* [iNaturalists competition 2017](https://github.com/visipedia/inat_comp)
 
 * [Digit Recognizer](https://www.kaggle.com/c/digit-recognizer)
 
