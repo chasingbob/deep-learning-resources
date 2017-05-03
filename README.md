@@ -104,8 +104,6 @@ expert to feel the adrenalin of a $150000 competition
 
 Kaggle competitions perfect for deep learning:
 
-* [iNaturalists competition 2017](https://github.com/visipedia/inat_comp)
-
 * [Digit Recognizer](https://www.kaggle.com/c/digit-recognizer)
 
 * [Dogs vs Cats](https://www.kaggle.com/c/dogs-vs-cats-redux-kernels-edition)
@@ -113,6 +111,14 @@ Kaggle competitions perfect for deep learning:
 * [The Nature Conservancy Fisheries Monitoring](https://www.kaggle.com/c/the-nature-conservancy-fisheries-monitoring)
 
 * [State Farm Distracted Driver Detection](https://www.kaggle.com/c/state-farm-distracted-driver-detection)
+
+
+iNaturalist Competition 2017
+
+** The training and validation images weighs in at a hefty **186GB** - only for the brave with a monster deep learning machine
+
+
+[iNaturalist competition 2017](https://github.com/visipedia/inat_comp)
 
 ## Tools of the Trade
 ### Python
