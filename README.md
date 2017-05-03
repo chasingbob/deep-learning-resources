@@ -93,10 +93,8 @@ deep learing. A big portion of the effort went into Generative Models, let us se
 
 [Do machines actually beat doctors?](https://lukeoakdenrayner.wordpress.com/2016/11/27/do-computers-already-outperform-doctors/)
 
-Visualising a Neural Network as a tree with branches and using smart pruning techniques might be the answer to visualising what is going 
-on inside the black box
-
-[Peek inside the 'black box' of a Neural Network](https://engineering.stanford.edu/news/finally-peek-inside-black-box-machine-learning-systems?utm_content=buffere7e19&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
+Visualising a Neural Network as a tree with branches and using smart pruning techniques might be the answer to 
+[getting a peek view of what is going on inside the 'black box' of a Neural Network](https://engineering.stanford.edu/news/finally-peek-inside-black-box-machine-learning-systems?utm_content=buffere7e19&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
 
 
 
