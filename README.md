@@ -15,7 +15,7 @@ Even though Deep Learning is a small but important subset of Machine Learning, i
 ## Tutorials
 [YouTube: Excellent visualization of How Neural Networks Work](https://www.youtube.com/watch?v=ILsA4nyG7I0)
 
-[Tinker with a Neural Network Right Here in Your Browser](http://playground.tensorflow.org)
+[Tinker with a Neural Network Right Here in Your Browser - Tensorflow Playground](http://playground.tensorflow.org)
 
 [A Beginner's Guide To Understanding Convolutional Neural
 Networks](https://adeshpande3.github.io/adeshpande3.github.io/A-Beginner%27s-Guide-To-Understanding-Convolutional-Neural-Networks/)
@@ -92,6 +92,11 @@ Looking at [The major advancements in Deep Learning in
 deep learing. A big portion of the effort went into Generative Models, let us see if that is the case in 2017.
 
 [Do machines actually beat doctors?](https://lukeoakdenrayner.wordpress.com/2016/11/27/do-computers-already-outperform-doctors/)
+
+Visualising a Neural Network as a tree with branches and using smart pruning techniques might be the answer to visualising what is going 
+on inside the black box
+
+[Peek inside the 'black box' of a Neural Network](https://engineering.stanford.edu/news/finally-peek-inside-black-box-machine-learning-systems?utm_content=buffere7e19&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
 
 
 
