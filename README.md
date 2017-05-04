@@ -113,12 +113,11 @@ Kaggle competitions perfect for deep learning:
 * [State Farm Distracted Driver Detection](https://www.kaggle.com/c/state-farm-distracted-driver-detection)
 
 
-iNaturalist Competition 2017
+[iNaturalist competition 2017](https://github.com/visipedia/inat_comp)
 
 ** The training and validation images weighs in at a hefty **186GB** - only for the brave with a monster deep learning machine
 
 
-[iNaturalist competition 2017](https://github.com/visipedia/inat_comp)
 
 ## Tools of the Trade
 ### Python
