@@ -119,6 +119,7 @@ Deep Learning is far from being an exact science and a lot of what you do is bas
 
 [YouTube: Bare Minimum: Matplotlib for data visualization](https://www.youtube.com/watch?v=ZthnIfAbKAU)
 
+
 ### NumPy
 NumPy is a fast optimized package for scientific computing, and is also the underlying library a lot of Machine Learning frameworks are build on top of. Becoming a NumPy ninja is an important step to mastery.
 
@@ -141,6 +142,9 @@ it an ideal framework for learning and production.
 [Learn TensorFlow and deep learning, without a
 Ph.D.](https://cloud.google.com/blog/big-data/2017/01/learn-tensorflow-and-deep-learning-without-a-phd)
 
+[Installing TensorFlow on a Raspberry Pi 3](https://github.com/samjabrahams/tensorflow-on-raspberry-pi)
+
+
 ### Keras
 Keras is a high level framework for Deep Learning that is compatible with both Theano and Tensorflow.
 
@@ -152,6 +156,7 @@ data](https://blog.keras.io/building-powerful-image-classification-models-using-
 [How convolutional neural networks see the world ~Francois Chollet](https://blog.keras.io/how-convolutional-neural-networks-see-the-world.html)
 
 [A complete guide to using Keras as part of a TensorFlow workflow](https://blog.keras.io/keras-as-a-simplified-interface-to-tensorflow-tutorial.html)
+
 
 ### keras-visuals
 Visualise the training of your Keras model with an easy to use Matplotlib graph using one line of code.
