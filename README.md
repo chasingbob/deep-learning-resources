@@ -1,8 +1,9 @@
 # deep-learning-resources
 A Collection of resources I have found useful on my journey finding my way through the world of Deep Learning.
 
-You will notice that my list is pretty random and the only little bit of structure there is I added afterwards by grouping things resources. The reason is because I have taken a random approach to learning Deep Learning, I don't believe there is a systematic way of learning deep learning, and that the best way is to take something that looks interesting, read up on it, try it, build something, rinse and repeat. By the time Systematic Sam finished chapter 1 of Linear Algebra 101 you have already build 5x projects, not to mention the feel you have developed for a topic that is still essentially more of an art than anything else.
+You will notice that my list is pretty random and the only little bit of structure there is I added afterwards by grouping resources. The reason is because I have taken a random approach to learning Deep Learning, I don't believe there is a systematic way of learning deep learning, and that the best way is to take something that looks interesting, read up on it, try it, build something, rinse and repeat. By the time Systematic Sam finished chapter 1 of Linear Algebra 101 you have already build 5x projects, not to mention the feel you have developed for a topic that is still essentially more of an art than anything else. Don't get too hang-up over checklists and roadmaps, it's more important to find something interesting and let your inner-child play.
 
+I couldn't have said it better than Brandon Rohrer did in he's blog post 
 [A One-Step Program for Becoming a Data Scientist**](http://brohrer.github.io/one_step_program_become_data_scientist.html)
 
 ** *Replace with Deep Learning expert without changing the point being made by the author*
