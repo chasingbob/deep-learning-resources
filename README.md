@@ -3,7 +3,7 @@ A Collection of resources I have found useful on my journey finding my way throu
 
 You will notice that my list is pretty random and the only little bit of structure it has I added afterward by grouping resources. The reason is because I have taken more of a random approach to learning deep learning. I don't believe there is a systematic way of learning deep learning, and that the best way is to take something that looks interesting, read up on it, try it, build something, rinse and repeat. By the time someone else finished chapter 1 of Linear Algebra 101 you have already build 5x projects, not to mention the feel you have developed for a topic that is still essentially more of an art than anything else. Don't get too hang-up over checklists and roadmaps, it's more important to find something interesting and get stuck in.
 
-I couldn't have said it better than Brandon Rohrer did in his blog post A One-Step Program for Becoming a Data Scientist**
+I couldn't have said it better than Brandon Rohrer did in his blog post 
 [A One-Step Program for Becoming a Data Scientist**](http://brohrer.github.io/one_step_program_become_data_scientist.html)
 
 ** *Replace with Deep Learning expert without changing the point being made by the author*
