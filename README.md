@@ -115,7 +115,7 @@ Kaggle competitions perfect for deep learning:
 
 [iNaturalist competition 2017](https://github.com/visipedia/inat_comp)
 
-** The training and validation images weighs in at a hefty **186GB** - only for the brave with a monster deep learning machine
+** *The training and validation images weighs in at a hefty **186GB** - only for the brave with a monster deep learning machine*
 
 
 
