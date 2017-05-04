@@ -36,21 +36,6 @@ Recurrent Neural Networks
 
 * [The Unreasonable Effectiveness of Recurrent Neural Networks ~Andrej Karpathy](http://karpathy.github.io/2015/05/21/rnn-effectiveness/)
 
-Keras framework for Deep Learning that compatible with both Theano and Tensorflow.
-
-* [The Keras Blog - Building powerful image classification models using very little
-data](https://blog.keras.io/building-powerful-image-classification-models-using-very-little-data.html)
-
-* [How convolutional neural networks see the world ~Francois Chollet](https://blog.keras.io/how-convolutional-neural-networks-see-the-world.html)
-
-* [A complete guide to using Keras as part of a TensorFlow workflow](https://blog.keras.io/keras-as-a-simplified-interface-to-tensorflow-tutorial.html)
-
-TensorFlow
-
-* [Getting Started With TensorFlow](https://www.tensorflow.org/get_started/get_started)
-
-* [Learn TensorFlow and deep learning, without a
-Ph.D.](https://cloud.google.com/blog/big-data/2017/01/learn-tensorflow-and-deep-learning-without-a-phd)
 
 [A Few Useful Things to Know about Machine Learning ~Pedro Domingos](http://homes.cs.washington.edu/~pedrod/papers/cacm12.pdf)
 
@@ -142,6 +127,31 @@ NumPy is a fast optimized package for scientific computing, and is also the unde
 [CS231n Python Numpy Tutorial](http://cs231n.github.io/python-numpy-tutorial/)
 
 [100 NumPy exercises](https://github.com/rougier/numpy-100/blob/master/100%20Numpy%20exercises.md)
+
+
+### TensorFlow
+TensorFlow is an open source software library for numerical computation using data flow graphs. TensorFlow is designed and highly optimised to take
+advantage of GPU technology in a distributed manner not only on a single instance with many GPU's, but also across many devices and networks, making 
+it an ideal framework for learning and production.
+
+[TensorFlow official documentation](https://www.tensorflow.org/)
+
+[Getting Started With TensorFlow](https://www.tensorflow.org/get_started/get_started)
+
+[Learn TensorFlow and deep learning, without a
+Ph.D.](https://cloud.google.com/blog/big-data/2017/01/learn-tensorflow-and-deep-learning-without-a-phd)
+
+### Keras
+Keras is a high level framework for Deep Learning that is compatible with both Theano and Tensorflow.
+
+[Keras official documentation](https://keras.io/)
+
+[The Keras Blog - Building powerful image classification models using very little
+data](https://blog.keras.io/building-powerful-image-classification-models-using-very-little-data.html)
+
+[How convolutional neural networks see the world ~Francois Chollet](https://blog.keras.io/how-convolutional-neural-networks-see-the-world.html)
+
+[A complete guide to using Keras as part of a TensorFlow workflow](https://blog.keras.io/keras-as-a-simplified-interface-to-tensorflow-tutorial.html)
 
 ### keras-visuals
 Visualise the training of your Keras model with an easy to use Matplotlib graph using one line of code.
