@@ -66,6 +66,8 @@ Recurrent Neural Networks
 
 [Running Jupyter notebooks on GPU on AWS: a starter guide](https://blog.keras.io/running-jupyter-notebooks-on-gpu-on-aws-a-starter-guide.html)
 
+[Jupyter notebook - DeepDreaming with TensorFlow](https://github.com/tensorflow/tensorflow/blob/master/tensorflow/examples/tutorials/deepdream/deepdream.ipynb)
+
 
 ## Books & e-Books
 [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/)
