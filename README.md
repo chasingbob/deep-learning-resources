@@ -138,10 +138,7 @@ NumPy is a fast optimized package for scientific computing, and is also the unde
 
 [100 NumPy exercises](https://github.com/rougier/numpy-100/blob/master/100%20Numpy%20exercises.md)
 
-Intro to Numpy
-
-[PDF](https://sebastianraschka.com/pdf/books/dlb/appendix_f_numpy-intro.pdf)
-
+Intro to Numpy [PDF](https://sebastianraschka.com/pdf/books/dlb/appendix_f_numpy-intro.pdf) | 
 [Jupyter Notebook](https://github.com/rasbt/deep-learning-book/blob/master/code/appendix_f_numpy-intro/appendix_f_numpy-intro.ipynb)
 
 
