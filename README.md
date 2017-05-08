@@ -138,6 +138,8 @@ NumPy is a fast optimized package for scientific computing, and is also the unde
 
 [100 NumPy exercises](https://github.com/rougier/numpy-100/blob/master/100%20Numpy%20exercises.md)
 
+[Intro to NumPy](https://sebastianraschka.com/pdf/books/dlb/appendix_f_numpy-intro.pdf)
+
 
 ### TensorFlow
 TensorFlow is an open source software library for numerical computation using data flow graphs. TensorFlow is designed and highly optimised to take
