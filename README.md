@@ -207,3 +207,5 @@ Denny Britz | [Blog](http://blog.dennybritz.com/) | [Twitter](https://twitter.co
 Adit Deshpande | [Blog](https://adeshpande3.github.io/) | [Twitter](https://twitter.com/aditdeshpande3)
 
 Fei-Fei Li | [Blog](http://vision.stanford.edu/) | [Twitter](https://twitter.com/drfeifei)
+
+Josh Gordon | [Twitter](https://twitter.com/random_forests)
