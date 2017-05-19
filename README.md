@@ -20,6 +20,8 @@ Even though Deep Learning is a small but important subset of Machine Learning, i
 
 
 ## Tutorials
+[Preprocessing data](http://scikit-learn.org/stable/modules/preprocessing.html)
+
 [YouTube: Excellent visualization of How Neural Networks Work](https://www.youtube.com/watch?v=ILsA4nyG7I0)
 
 [Tinker with a Neural Network Right Here in Your Browser - Tensorflow Playground](http://playground.tensorflow.org)
