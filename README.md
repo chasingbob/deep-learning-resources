@@ -1,12 +1,8 @@
 # deep-learning-resources
 A Collection of resources I have found useful on my journey finding my way through the world of Deep Learning.
 
-You will notice that my list is pretty random and the only little bit of structure to it I have added afterwards by grouping resources. The reason for the randomness is that I don't believe there is a systematic way of learning deep learning, and that the best way is to take something that looks interesting, read up on it, try it, build something, rinse and repeat. By the time someone else finished chapter 1 of Linear Algebra 101 you have already build 5x projects, not to mention the intuitive feel you have developed for a topic that is still essentially more of an art than a science. Don't get too hang-up over checklists and roadmaps - find something interesting and get stuck in.
+Don't get too hang-up on the perfect road map to Deep Learning Mastery - take something that looks interesting, and get stuck in.
 
-I couldn't have said it better than Brandon Rohrer did in his blog post 
-[A One-Step Program for Becoming a Data Scientist**](http://brohrer.github.io/one_step_program_become_data_scientist.html)
-
-** *Replace with Deep Learning expert without changing the point being made by the author*
 
 ## Courses
 [Stanford CS231n Convolutional Neural Networks for Visual
@@ -17,6 +13,10 @@ Recognition](http://cs231n.github.io/)
 Even though Deep Learning is a small but important subset of Machine Learning, it is still important to get a wider knowledge and understanding of Machine Learning and no course will give you a better understanding than the excellent course by Andrew Ng.
 
 [Coursera: Machine Learning](https://www.coursera.org/learn/machine-learning)
+
+The fast.ai team promises to take you to the cool stuff asap.
+
+[fast.ai course](http://course.fast.ai/)
 
 
 ## Tutorials
@@ -91,6 +91,11 @@ deep learing. A big portion of the effort went into Generative Models, let us se
 
 Visualising a Neural Network as a tree with branches and using smart pruning techniques might be the answer to 
 [getting a peek view of what is going on inside the 'black box' of a Neural Network](https://engineering.stanford.edu/news/finally-peek-inside-black-box-machine-learning-systems?utm_content=buffere7e19&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
+
+[A One-Step Program for Becoming a Data Scientist**](http://brohrer.github.io/one_step_program_become_data_scientist.html)
+
+** *Replace with Deep Learning expert without changing the point being made by the author*
+
 
 
 
