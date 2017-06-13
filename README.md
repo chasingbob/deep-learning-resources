@@ -221,3 +221,5 @@ Adit Deshpande | [Blog](https://adeshpande3.github.io/) | [Twitter](https://twit
 Fei-Fei Li | [Blog](http://vision.stanford.edu/) | [Twitter](https://twitter.com/drfeifei)
 
 Josh Gordon | [Twitter](https://twitter.com/random_forests)
+
+Brandon Rohrer | [Blog](https://brohrer.github.io/) | [Twitter](https://twitter.com/_brohrer_)
