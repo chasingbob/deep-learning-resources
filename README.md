@@ -81,8 +81,6 @@ Recurrent Neural Networks
 
 ## Getting Philosophical
 
-Great blog post by Rachel Thomas discussing some Diverse Deep Learning Applications arround the world.
-
 [Diverse AI applications around the world](https://onthefuture.co/diverse-ai-applications-around-the-world-41107250a4a0)
 
 [What is the next likely breakthrough in Deep
