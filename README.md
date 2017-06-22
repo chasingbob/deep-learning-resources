@@ -223,3 +223,7 @@ Fei-Fei Li | [Blog](http://vision.stanford.edu/) | [Twitter](https://twitter.com
 Josh Gordon | [Twitter](https://twitter.com/random_forests)
 
 Brandon Rohrer | [Blog](https://brohrer.github.io/) | [Twitter](https://twitter.com/_brohrer_)
+
+Rachel Thomas | [Blog](https://medium.com/@racheltho) | [Twitter](https://twitter.com/math_rachel)
+
+Jeremy Howard | [Blog](http://www.fast.ai/) | [Twitter](https://twitter.com/jeremyphoward)
