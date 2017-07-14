@@ -12,11 +12,11 @@ Recognition](http://cs231n.github.io/)
 
 Even though Deep Learning is a small but important subset of Machine Learning, it is still important to get a wider knowledge and understanding of Machine Learning and no course will give you a better understanding than the excellent course by Andrew Ng.
 
-[Coursera: Machine Learning](https://www.coursera.org/learn/machine-learning)
+* [Coursera: Machine Learning](https://www.coursera.org/learn/machine-learning)
 
 The fast.ai team promises to take you to the cool stuff asap.
 
-[fast.ai course](http://course.fast.ai/)
+* [fast.ai course](http://course.fast.ai/)
 
 
 ## Tutorials
