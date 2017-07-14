@@ -99,7 +99,9 @@ Visualising a Neural Network as a tree with branches and using smart pruning tec
 
 ** *Replace with Deep Learning expert without changing the point being made by the author*
 
+[Cardiologist-Level Arrhythmia Detection With Convolutional Neural Networks](https://stanfordmlgroup.github.io/projects/ecg/)
 
+[When not to use Deep Learning](http://hyperparameter.space/blog/when-not-to-use-deep-learning/)
 
 
 ## Competitions
