@@ -8,18 +8,20 @@ Don't get too hang-up on the perfect road map to Deep Learning Mastery - take so
 [Stanford CS231n Convolutional Neural Networks for Visual
 Recognition](http://cs231n.github.io/)
 
-[Coursera: Neural Networks for Machine Learning](https://www.coursera.org/learn/neural-networks)
+ Learn about artificial neural networks and how they're being used for machine learning, as applied to speech and object recognition, image segmentation, modeling language and human motion, etc. by Geoffrey Hinton
+
+* [Coursera: Neural Networks for Machine Learning](https://www.coursera.org/learn/neural-networks)
 
 Even though Deep Learning is a small but important subset of Machine Learning, it is still important to get a wider knowledge and understanding of Machine Learning and no course will give you a better understanding than the excellent course by Andrew Ng.
 
 * [Coursera: Machine Learning](https://www.coursera.org/learn/machine-learning)
 
-The fast.ai team promises to take you to the cool stuff asap.
+The fast.ai team (Jeremy Howard & Rachel Thomas) promises to take you to the cool stuff asap.
 
 * [fast.ai course](http://course.fast.ai/)
 
 
-## Tutorials
+## Tutorials & Articles
 [Preprocessing data](http://scikit-learn.org/stable/modules/preprocessing.html)
 
 [YouTube: Excellent visualization of How Neural Networks Work](https://www.youtube.com/watch?v=ILsA4nyG7I0)
