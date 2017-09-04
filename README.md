@@ -1,7 +1,7 @@
 # deep-learning-resources
 A Collection of resources I have found useful on my journey finding my way through the world of Deep Learning.
 
-Don't get too hang-up on the perfect road map to Deep Learning Mastery - take something that looks interesting, and get stuck in.
+Don't get too hang-up with trying to follow the perfect roadmap to Deep Learning Mastery - take something that looks interesting, and get stuck in.
 
 
 ## Courses
@@ -12,7 +12,8 @@ Recognition](http://cs231n.github.io/)
 
 * [Coursera: Neural Networks for Machine Learning](https://www.coursera.org/learn/neural-networks)
 
-Even though Deep Learning is a small but important subset of Machine Learning, it is still important to get a wider knowledge and understanding of Machine Learning and no course will give you a better understanding than the excellent course by Andrew Ng.
+
+Deep Learning is an important subset of Machine Learning and it is therefor important to get a wider knowledge and understanding of Machine Learning. The Coursera Machine Learning course by Andrew Ng is highly recommended.
 
 * [Coursera: Machine Learning](https://www.coursera.org/learn/machine-learning)
 
@@ -72,8 +73,13 @@ Recurrent Neural Networks
 
 [Jupyter notebook - DeepDreaming with TensorFlow](https://github.com/tensorflow/tensorflow/blob/master/tensorflow/examples/tutorials/deepdream/deepdream.ipynb)
 
+[The Black Magic of Deep Learning - Tips and Tricks for the practitioner](http://nmarkou.blogspot.co.za/2017/02/the-black-magic-of-deep-learning-tips.html?m=1)
+
 
 ## Books & e-Books
+
+[Hands-On Machine Learning with Scikit-Learn and Tensorflow](https://www.safaribooksonline.com/library/view/hands-on-machine-learning/9781491962282/)
+
 [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/)
 
 [Deep Learning Book - some call this book the Deep Learning bible](https://github.com/HFTrader/DeepLearningBook)
@@ -154,6 +160,11 @@ NumPy is a fast optimized package for scientific computing, and is also the unde
 
 Intro to Numpy [PDF](https://sebastianraschka.com/pdf/books/dlb/appendix_f_numpy-intro.pdf) | 
 [Jupyter Notebook](https://github.com/rasbt/deep-learning-book/blob/master/code/appendix_f_numpy-intro/appendix_f_numpy-intro.ipynb)
+
+### Pandas
+Pandas is a high level data manipulation tool based on the Numpy package. At it's core Pandas uses a DataFrame which allows you to store and manipulate tabular data.
+
+[Pandas Cheat Sheet](https://github.com/pandas-dev/pandas/blob/master/doc/cheatsheet/Pandas_Cheat_Sheet.pdf)
 
 
 ### TensorFlow
