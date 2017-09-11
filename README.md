@@ -1,7 +1,5 @@
 # deep-learning-resources
-A Collection of resources I have found useful on my journey finding my way through the world of Deep Learning.
-
-Don't get too hang-up with trying to follow the perfect roadmap to Deep Learning Mastery - take something that looks interesting, and get stuck in.
+A Collection of resources I have found useful on my journey, finding my way through the world of Deep Learning.
 
 
 ## Courses
@@ -24,6 +22,8 @@ The fast.ai team (Jeremy Howard & Rachel Thomas) promises to take you to the coo
 
 ## Tutorials & Articles
 [Preprocessing data](http://scikit-learn.org/stable/modules/preprocessing.html)
+
+[Deep Learning - a gentle dive](https://becominghuman.ai/deep-learning-a-gentle-dive-92054e39bd8)
 
 [YouTube: Excellent visualization of How Neural Networks Work](https://www.youtube.com/watch?v=ILsA4nyG7I0)
 
@@ -105,7 +105,7 @@ Visualising a Neural Network as a tree with branches and using smart pruning tec
 
 [A One-Step Program for Becoming a Data Scientist**](http://brohrer.github.io/one_step_program_become_data_scientist.html)
 
-** *Replace with Deep Learning expert without changing the point being made by the author*
+** *Is interchangeable with Deep Learning Expert*
 
 [Cardiologist-Level Arrhythmia Detection With Convolutional Neural Networks](https://stanfordmlgroup.github.io/projects/ecg/)
 
@@ -247,3 +247,5 @@ Brandon Rohrer | [Blog](https://brohrer.github.io/) | [Twitter](https://twitter.
 Rachel Thomas | [Blog](https://medium.com/@racheltho) | [Twitter](https://twitter.com/math_rachel)
 
 Jeremy Howard | [Blog](http://www.fast.ai/) | [Twitter](https://twitter.com/jeremyphoward)
+
+Stephen Merity | [Blog](http://smerity.com/) | [Twitter](https://twitter.com/smerity)
