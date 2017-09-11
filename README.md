@@ -139,6 +139,8 @@ Kaggle competitions perfect for deep learning:
 
 [Python Programming Tutorials](https://pythonprogramming.net/)
 
+[YouTube: How did Python become a data science powerhouse?](https://www.youtube.com/watch?v=9by46AAqz70&t=34s)
+
 ### MatplotLib
 Deep Learning is far from being an exact science and a lot of what you do is based on getting a feel for the underlying mechanics, visualising the moving parts makes it easier to understand and Matplotlib is the go-to library for visualisation
 
