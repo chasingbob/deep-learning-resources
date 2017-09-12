@@ -48,6 +48,8 @@ Recurrent Neural Networks
 
 * [The Unreasonable Effectiveness of Recurrent Neural Networks ~Andrej Karpathy](http://karpathy.github.io/2015/05/21/rnn-effectiveness/)
 
+* [YouTube: Recurrent Neural Networks (RNN) and and Long Short-Term Memory (LSTM)](https://www.youtube.com/watch?v=WCUNPb-5EYI&index=15&list=WL)
+
 
 [A Few Useful Things to Know about Machine Learning ~Pedro Domingos](http://homes.cs.washington.edu/~pedrod/papers/cacm12.pdf)
 
