@@ -21,7 +21,12 @@ The fast.ai team (Jeremy Howard & Rachel Thomas) promises to take you to the coo
 
 
 ## Tutorials & Articles
+
+[Image Kernels - Explained visually](http://setosa.io/ev/image-kernels/)
+
 [Preprocessing data](http://scikit-learn.org/stable/modules/preprocessing.html)
+
+[How to setup your Windows 10 machine for Machine Learning using Ubuntu Bash shell](https://medium.com/@dries139/how-to-setup-your-windows-10-machine-for-machine-learning-using-ubuntu-bash-shell-b32f01bd31ab)
 
 [Deep Learning - a gentle dive](https://becominghuman.ai/deep-learning-a-gentle-dive-92054e39bd8)
 
