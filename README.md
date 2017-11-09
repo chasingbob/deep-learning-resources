@@ -22,6 +22,11 @@ The fast.ai team (Jeremy Howard & Rachel Thomas) promises to take you to the coo
 
 ## Tutorials & Articles
 
+You know when [Chris Olah](https://twitter.com/ch402) is involved it will be brilliant - one of the best posts on visualising how Neural Networks learn to see around.
+
+* [Feature Visualization - How neural networks build up their understanding of images](https://distill.pub/2017/feature-visualization/)
+
+
 [Image Kernels - Explained visually](http://setosa.io/ev/image-kernels/)
 
 [Preprocessing data](http://scikit-learn.org/stable/modules/preprocessing.html)
