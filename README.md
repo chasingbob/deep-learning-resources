@@ -25,6 +25,8 @@ The fast.ai team (Jeremy Howard & Rachel Thomas) promises to take you to the coo
 
 [Deep Learning - a gentle dive](https://becominghuman.ai/deep-learning-a-gentle-dive-92054e39bd8)
 
+[A 'Brief' History of Neural Nets and Deep Learning (4 parts)](http://www.andreykurenkov.com/writing/a-brief-history-of-neural-nets-and-deep-learning/)
+
 [YouTube: Excellent visualization of How Neural Networks Work](https://www.youtube.com/watch?v=ILsA4nyG7I0)
 
 [Tinker with a Neural Network Right Here in Your Browser - Tensorflow Playground](http://playground.tensorflow.org)
@@ -207,6 +209,8 @@ Visualise the training of your Keras model with an easy to use Matplotlib graph 
 [20 Weird & Wonderful Datasets for Machine Learning](https://medium.com/@olivercameron/20-weird-wonderful-datasets-for-machine-learning-c70fc89b73d5#.j77u7v3a6)
 
 [Enron Email Dataset](https://www.cs.cmu.edu/~enron/)
+
+[11k Hands - Gender recognition and biometric identification using a large dataset of hand images](https://sites.google.com/view/11khands)
 
 
 ## Whom I follow
