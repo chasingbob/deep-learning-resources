@@ -21,7 +21,17 @@ The fast.ai team (Jeremy Howard & Rachel Thomas) promises to take you to the coo
 
 
 ## Tutorials & Articles
+
+You know when [Chris Olah](https://twitter.com/ch402) is involved it will be brilliant - one of the best posts on visualising how Neural Networks learn to see around.
+
+* [Feature Visualization - How neural networks build up their understanding of images](https://distill.pub/2017/feature-visualization/)
+
+
+[Image Kernels - Explained visually](http://setosa.io/ev/image-kernels/)
+
 [Preprocessing data](http://scikit-learn.org/stable/modules/preprocessing.html)
+
+[How to setup your Windows 10 machine for Machine Learning using Ubuntu Bash shell](https://medium.com/@dries139/how-to-setup-your-windows-10-machine-for-machine-learning-using-ubuntu-bash-shell-b32f01bd31ab)
 
 [Deep Learning - a gentle dive](https://becominghuman.ai/deep-learning-a-gentle-dive-92054e39bd8)
 
@@ -49,6 +59,8 @@ Recurrent Neural Networks
 * [Understanding LSTM Networks](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
 
 * [The Unreasonable Effectiveness of Recurrent Neural Networks ~Andrej Karpathy](http://karpathy.github.io/2015/05/21/rnn-effectiveness/)
+
+* [YouTube: Recurrent Neural Networks (RNN) and and Long Short-Term Memory (LSTM)](https://www.youtube.com/watch?v=WCUNPb-5EYI&index=15&list=WL)
 
 
 [A Few Useful Things to Know about Machine Learning ~Pedro Domingos](http://homes.cs.washington.edu/~pedrod/papers/cacm12.pdf)
