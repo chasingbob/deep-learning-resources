@@ -89,6 +89,10 @@ Recurrent Neural Networks
 
 [The Black Magic of Deep Learning - Tips and Tricks for the practitioner](http://nmarkou.blogspot.co.za/2017/02/the-black-magic-of-deep-learning-tips.html?m=1)
 
+[YouTube: Dimensionality Reduction: Principal Component Analysis, Part 1](https://www.youtube.com/watch?v=ZqXnPcyIAL8)
+[| Part 2](https://www.youtube.com/watch?v=NUn6WeFM5cM)
+[| Part 3](https://www.youtube.com/watch?v=7WqWoEKUdQY)
+
 
 ## Books & e-Books
 
