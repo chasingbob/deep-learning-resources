@@ -19,6 +19,10 @@ The fast.ai team (Jeremy Howard & Rachel Thomas) promises to take you to the coo
 
 * [fast.ai course](http://course.fast.ai/)
 
+The Deep Learning Specialization from Andrew NG, in Coursera is the best course for beginners in the field of Deep Learning. Andrew NG makes it look so easy to understand.
+
+* [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning)
+
 
 ## Tutorials & Articles
 
